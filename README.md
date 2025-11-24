@@ -59,12 +59,6 @@ The aim is to convert ride-level data into **actionable insights** that support 
 
 ---
 
-## 📌 Dataset Source
-
-The dataset represents open mobility ride patterns. *(Add URL if publicly available)*  
-If restricted, a **sample/modified dataset** will be provided.
-
----
 
 ## 🎯 Recommendations
 
