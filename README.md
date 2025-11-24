@@ -51,15 +51,6 @@ The aim is to convert ride-level data into **actionable insights** that support 
 ---
 
 
-## 🚀 How to Use the Dashboard
-
-1. Clone this repository  
-2. Open **NammaYatri.pbix** in Power BI Desktop  
-3. Explore insights through slicers & filters  
-
----
-
-
 ## 🎯 Recommendations
 
 - Boost afternoon demand using targeted offers
