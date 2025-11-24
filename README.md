@@ -72,7 +72,7 @@ The aim is to convert ride-level data into **actionable insights** that support 
 ## 👩‍💻 Developed By
 
 **Jyoti Siddharam Sarasambi**  
-_Data & Business Analyst_  
+Data Analyst  
 
 🔗 LinkedIn: *www.linkedin.com/in/jyoti-sarasambi*  
 📧 Email: sarasambijs99@gmail.com
