@@ -32,7 +32,11 @@ The aim is to convert ride-level data into **actionable insights** that support 
 
 ## 📊 Dashboard Preview
 
-(Visuals will be added soon — under **Dashboard/Screenshots** folder)
+📄 You can view the full exported dashboard visuals here:
+
+🔗 [Download Dashboard PDF](./ADV_Namma_Yatri_Dashboard_Export.pdf)
+
+
 
 ---
 
